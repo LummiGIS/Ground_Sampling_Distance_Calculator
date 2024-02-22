@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-__author__ = 'Gerry Gabrisch/Shuksan Geomatics'
+__author__ = 'Gerry Gabrisch'
 __date__ = 'April 2022'
-__copyright__ = '(C) 2022, Gerry Gabrisch'
+__copyright__ = '(C) 2022, Gerry Gabrisch with an MIT license'
 
 '''returns ground sampling distance(image spatial resolutionas cm / pixel), image width m, and image height m.
     This all assumes the image is a vertical image.'''
